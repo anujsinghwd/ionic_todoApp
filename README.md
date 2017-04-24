@@ -1,5 +1,5 @@
 # ionic_todoApp
-<h3> Run The App Follow these Steps </h3>
+<h3> Follow these Steps </h3>
 <ul>
 <li>Install ionic : <span> npm install -g ionic </span></li>
 <li>Install cordova : <span> npm install -g cordova </span></li>
